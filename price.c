@@ -17,7 +17,4 @@ printf("selling price of orange:%d Rs\n" , total_orange_profit);
 printf("total earning :%d Rs\n" , total_earned);
 
 return 0;
-
-
-
 }
